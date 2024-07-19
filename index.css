@@ -51,5 +51,7 @@
     font-style: none;
     border-radius: 10px;
     border-style: none;
-    justify-content: flex-end; /* Added for Flexbox alignment */
+    justify-content: flex-end; 
   }
+
+
